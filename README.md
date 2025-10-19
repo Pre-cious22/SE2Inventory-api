@@ -1,1 +1,2 @@
-# SE2Inventory-api
+# Inventory API
+# Inventory API
